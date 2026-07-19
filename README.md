@@ -26,3 +26,20 @@ Standard 2D flat-plate ceramic solid-state interfaces suffer from low-temperatur
    git clone [https://github.com/Abhishek1033ubuntu/3D-NASICON-Optimization.git](https://github.com/Abhishek1033ubuntu/3D-NASICON-Optimization.git)
    Install dependencies:
    pip install -r requirements.txt
+
+# Important Notice
+
+This repository contains code published for demonstration and testing purposes only. 
+The underlying intellectual property (IP) — including inventions, processes, methods, 
+algorithms, and research results — is proprietary and protected under Indian law and 
+international treaties (Berne Convention, Paris Convention, TRIPS Agreement).
+
+By accessing this repository, you agree:
+- The code may be viewed and studied for non-commercial, educational, or research use only.
+- Any reproduction, modification, distribution, or commercialization of the IP is strictly prohibited.
+- Enforcement of rights will be pursued under Indian jurisdiction and applicable international treaties.
+
+For licensing inquiries or commercial permissions, please contact:
+Abhishek Singh  | UIDAI: 9414 9122 9013
+Email: abhishek1033@gmail.com | abhishek.s@live.in
+Location: Madhya Pradesh, India
