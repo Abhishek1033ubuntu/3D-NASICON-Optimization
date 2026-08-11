@@ -1,6 +1,9 @@
 # 3D-Architected NASICON Solid-State Unit: Interfacial & Techno-Economic Optimization
+
 ---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21567468.svg)](https://doi.org/10.5281/zenodo.21567468) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+
 ---
 
 An open-source multiphysics modeling framework utilizing **PyBaMM** and a custom **Techno-Economic Analysis (TEA)** optimizer to design an ultra-low resistance, financially viable 3D solid-state sodium-ion battery interface.
