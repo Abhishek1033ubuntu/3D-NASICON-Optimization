@@ -1,6 +1,5 @@
 # 3D-Architected NASICON Solid-State Unit: Interfacial & Techno-Economic Optimization
 
----
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21567468.svg)](https://doi.org/10.5281/zenodo.21567468) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
@@ -49,3 +48,5 @@ For licensing inquiries or commercial permissions, please contact:
 Abhishek Singh  | UIDAI: 9414 9122 9013
 Email: abhishek1033@gmail.com | abhishek.s@live.in
 Location: Madhya Pradesh, India
+
+Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access.
